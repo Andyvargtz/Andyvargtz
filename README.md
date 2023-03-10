@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Andrea</h1>
-<h4 align="left"> Trying my best to make crypto and blockchain easy for everyone. Convinced of the potential that blockchain represents for individuals and industries, I set my professional goal to help shape the future of this technology.</h4>
+<h4 align="left"> Trying my best to make crypto and blockchain easy and accesible for everyone. Convinced of the potential that blockchain represents for individuals and industries, I've set my professional goal to help shape the future of this technology.</h4>
 <!-- <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"> -->
 
 
