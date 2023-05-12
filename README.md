@@ -13,7 +13,7 @@
   
   
 
-- 🔭 I’m currently working as a Community Manager and Dev Evangelist at [Ava Labs](avax.network)
+- 🔭 DevRel Engineer at [Ava Labs](avax.network)
 
 - 🌎 I'm from México 🇲🇽
 
